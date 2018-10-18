@@ -25,5 +25,7 @@ language: br
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 title: Sarmoniou an Aotrou Quere
 url: http://www.gutenberg.org/ebooks/23685
